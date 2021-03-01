@@ -1,0 +1,16 @@
+C:\Users\Lurch\OneDrive - Waukesha County Technical College\DotNet Database\Class6\DotnetDB_MovieLibraryAb_HeilAdam\obj\Debug\net5.0\DotnetDB_MovieLibraryAb_HeilAdam.csprojAssemblyReference.cache
+C:\Users\Lurch\OneDrive - Waukesha County Technical College\DotNet Database\Class6\DotnetDB_MovieLibraryAb_HeilAdam\obj\Debug\net5.0\DotnetDB_MovieLibraryAb_HeilAdam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lurch\OneDrive - Waukesha County Technical College\DotNet Database\Class6\DotnetDB_MovieLibraryAb_HeilAdam\obj\Debug\net5.0\DotnetDB_MovieLibraryAb_HeilAdam.AssemblyInfoInputs.cache
+C:\Users\Lurch\OneDrive - Waukesha County Technical College\DotNet Database\Class6\DotnetDB_MovieLibraryAb_HeilAdam\obj\Debug\net5.0\DotnetDB_MovieLibraryAb_HeilAdam.AssemblyInfo.cs
+C:\Users\Lurch\OneDrive - Waukesha County Technical College\DotNet Database\Class6\DotnetDB_MovieLibraryAb_HeilAdam\obj\Debug\net5.0\DotnetDB_MovieLibraryAb_HeilAdam.csproj.CoreCompileInputs.cache
+C:\Users\Lurch\OneDrive - Waukesha County Technical College\DotNet Database\Class6\DotnetDB_MovieLibraryAb_HeilAdam\bin\Debug\net5.0\DotnetDB_MovieLibraryAb_HeilAdam.exe
+C:\Users\Lurch\OneDrive - Waukesha County Technical College\DotNet Database\Class6\DotnetDB_MovieLibraryAb_HeilAdam\bin\Debug\net5.0\DotnetDB_MovieLibraryAb_HeilAdam.deps.json
+C:\Users\Lurch\OneDrive - Waukesha County Technical College\DotNet Database\Class6\DotnetDB_MovieLibraryAb_HeilAdam\bin\Debug\net5.0\DotnetDB_MovieLibraryAb_HeilAdam.runtimeconfig.json
+C:\Users\Lurch\OneDrive - Waukesha County Technical College\DotNet Database\Class6\DotnetDB_MovieLibraryAb_HeilAdam\bin\Debug\net5.0\DotnetDB_MovieLibraryAb_HeilAdam.runtimeconfig.dev.json
+C:\Users\Lurch\OneDrive - Waukesha County Technical College\DotNet Database\Class6\DotnetDB_MovieLibraryAb_HeilAdam\bin\Debug\net5.0\DotnetDB_MovieLibraryAb_HeilAdam.dll
+C:\Users\Lurch\OneDrive - Waukesha County Technical College\DotNet Database\Class6\DotnetDB_MovieLibraryAb_HeilAdam\bin\Debug\net5.0\ref\DotnetDB_MovieLibraryAb_HeilAdam.dll
+C:\Users\Lurch\OneDrive - Waukesha County Technical College\DotNet Database\Class6\DotnetDB_MovieLibraryAb_HeilAdam\bin\Debug\net5.0\DotnetDB_MovieLibraryAb_HeilAdam.pdb
+C:\Users\Lurch\OneDrive - Waukesha County Technical College\DotNet Database\Class6\DotnetDB_MovieLibraryAb_HeilAdam\obj\Debug\net5.0\DotnetDB_MovieLibraryAb_HeilAdam.dll
+C:\Users\Lurch\OneDrive - Waukesha County Technical College\DotNet Database\Class6\DotnetDB_MovieLibraryAb_HeilAdam\obj\Debug\net5.0\ref\DotnetDB_MovieLibraryAb_HeilAdam.dll
+C:\Users\Lurch\OneDrive - Waukesha County Technical College\DotNet Database\Class6\DotnetDB_MovieLibraryAb_HeilAdam\obj\Debug\net5.0\DotnetDB_MovieLibraryAb_HeilAdam.pdb
+C:\Users\Lurch\OneDrive - Waukesha County Technical College\DotNet Database\Class6\DotnetDB_MovieLibraryAb_HeilAdam\obj\Debug\net5.0\DotnetDB_MovieLibraryAb_HeilAdam.genruntimeconfig.cache
